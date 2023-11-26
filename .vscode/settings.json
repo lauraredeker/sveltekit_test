@@ -1,0 +1,5 @@
+{
+    "editor.accessibilityPageSize": 11,
+    "editor.accessibilitySupport": "auto",
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+}
